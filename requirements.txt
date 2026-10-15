@@ -1,0 +1,11 @@
+google-genai
+keyboard
+sounddevice
+numpy
+pyperclip
+python-dotenv
+pystray
+Pillow
+mss
+comtypes
+send2trash

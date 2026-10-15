@@ -1,0 +1,7 @@
+.env
+wisp.log
+__pycache__/
+build/
+dist/
+*.spec
+.venv/
