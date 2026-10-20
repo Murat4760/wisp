@@ -9,3 +9,4 @@ Pillow
 mss
 comtypes
 send2trash
+httpx
